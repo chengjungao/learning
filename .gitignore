@@ -1,0 +1,6 @@
+__pycache__
+
+# finetune_demo: generated & downloaded files
+/.idea
+/venv
+*.pkl
